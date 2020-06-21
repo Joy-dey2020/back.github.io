@@ -1,0 +1,25 @@
+#example1 {
+  border: 2px solid black;
+  padding: 25px;
+  background: url(download.jpg);
+  background-repeat: no-repeat;
+  background-size:auto;
+    color: aqua;
+}
+
+#example2 {
+  border: 2px solid black;
+  padding: 25px;
+  background: url(download.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+       color: aqua;
+}
+#example3 {
+  border: 2px solid black;
+  padding: 25px;
+  background: url(download.jpg);
+  background-repeat: no-repeat;
+    color: aqua;
+    background-size: cover;
+}
